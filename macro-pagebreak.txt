@@ -1,0 +1,9 @@
+## Macro title: Page Break
+## Macro has a body: N
+##
+## Developed by: Matt Hutchinson
+## Date created: 27/7/17
+## Installed by: Matt Hutchinson
+
+## @noparams
+<div style="page-break-before:always;"></div>
